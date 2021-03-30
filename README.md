@@ -8,4 +8,6 @@
 
 3. Skriv ett program som läser in style.css och räknar antalet ID:n (d.v.s antalet **#**) ock skriver sedan ut summan.
 
-4. Skapa en json-fil som innehåller en array med ett antal objekt (du kan använda childrensbooks.json från biblioteks-övningen) och skriv ett program som läser in denna json-fil och skriver ut innehållet.
+4. Skapa en json-fil som innehåller en array med ett antal objekt  och skriv ett program som läser in denna json-fil och och räknar ut antal objekt.
+
+5.  Skapa en index.html med lite HTML-taggar i och skriv ett program som läser in denna HTML-fil och skriver ut innehållet.
