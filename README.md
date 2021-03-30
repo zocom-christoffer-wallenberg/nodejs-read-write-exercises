@@ -8,6 +8,9 @@
 
 3. Skriv ett program som läser in style.css och räknar antalet ID:n (d.v.s antalet **#**) ock skriver sedan ut summan.
 
-4. Skriv ett program som skapar en fil och skriver en text till denna fil som en användare ger. En användare ska i terminalen förstå få mata in vad filen ska heta och sedan vad för text som ska skrivas in i filen.
+4. Skriv ett program som skapar en fil och skriver en text till denna fil som en användare ger. En användare ska i terminalen förstå få mata in vad filen ska heta och sedan vad för text som ska skrivas in i filen. Tips! Här behöver du använda dig av `process.stdin`.
+
+5. Skapa ett program som läser in insults.json och skriver ut både insults (gärna snyggt formaterat) och räknar antal insults och skriver ut dessa.
+   Tips! Här behöver du använda `JSON.parse()` för att göra om till JSON efter inläsning av fil.
 
 5.  Skapa en index.html med lite HTML-taggar i och skriv ett program som läser in denna HTML-fil och skriver ut innehållet.
