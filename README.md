@@ -1,7 +1,5 @@
 # Node.JS Övningar Läsa/Skriva
 
-### Övning 1
-
 1. Skriv ett program som sparar citatet *"Why, sometimes I've believed as many as six impossible things before breakfast."* i en textfil som heter alicequotes.txt. Använd **writeFile**.
 
 2. Skriv ett program som läser from textfilen alicequotes.txt och skriver ut innehållet.
