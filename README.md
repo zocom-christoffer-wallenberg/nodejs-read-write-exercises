@@ -10,6 +10,4 @@
 
 4. Skriv ett program som skapar en fil och skriver en text till denna fil som en användare ger. En användare ska i terminalen förstå få mata in vad filen ska heta och sedan vad för text som ska skrivas in i filen.
 
-5. Skapa en json-fil som innehåller en array med ett antal objekt  och skriv ett program som läser in denna json-fil och och räknar ut antal objekt.
-
-6.  Skapa en index.html med lite HTML-taggar i och skriv ett program som läser in denna HTML-fil och skriver ut innehållet.
+5.  Skapa en index.html med lite HTML-taggar i och skriv ett program som läser in denna HTML-fil och skriver ut innehållet.
